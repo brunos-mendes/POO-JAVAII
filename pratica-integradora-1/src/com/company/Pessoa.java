@@ -84,6 +84,6 @@ public class Pessoa {
     }
 
     public String toString() {
-        return (this.nome + " tem " + this.idade + " anos. Pesa " + this.peso + "Kg e mede" + this.altura + "m.");
+        return (this.nome + " tem " + this.idade + " anos. Pesa " + this.peso + "Kg e mede " + this.altura + "m.");
     }
 }
